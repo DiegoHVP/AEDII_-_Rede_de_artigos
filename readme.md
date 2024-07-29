@@ -36,7 +36,7 @@ Gravar um vídeo de até 10 minutos explicando todo o desenvolvimento do trabalh
 
 ### Video da explicação do código
 
-Aqui[Adicionar link aqui] esta a minha explicação do código
+[Aqui](https://youtu.be/5kiKtSdfp-E) esta a minha explicação do código
 
 ---
 
